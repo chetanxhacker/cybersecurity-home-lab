@@ -25,3 +25,19 @@ VMs consume significant storage; allocate ~20 GB per VM.
 Network Adapter:
 Wired Ethernet connection for reliable internet access.
 A USB Wi-Fi adapter (optional) for testing wireless attacks.
+
+# Cybersecurity Home Lab
+
+A comprehensive, virtualized cybersecurity home lab for ethical hacking, network defense, and real-world simulations. This project helps users practice cybersecurity techniques in a controlled environment.
+
+## What's Included
+- Virtualized pfSense Firewall
+- Subnets for LAN, WAN, Monitoring, Active Directory, and Vulnerable Machines
+- Setup instructions for tools like Splunk, Wireshark, and Metasploit
+
+## Table of Contents
+- [Network Diagram](network-diagram/lab-network-diagram.png)
+- [Prerequisites](prerequisites.md)
+- [Setup Guides](guides/)
+- [Resources](resources/)
+
